@@ -1,6 +1,5 @@
-WLCCornerRadius
-=============================================================================
-### A very simple but high performance way to set corner for UIImageView. 
+# WLCCornerRadius
+## A very simple but high performance way to set corner for UIImageView. 
 
 ### CocoaPods:
 
