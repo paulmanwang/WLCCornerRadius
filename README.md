@@ -1,5 +1,4 @@
-WLCCornerRadius
-A very simple but high performance way to set corner for UIImageView. 
+WLCCornerRadius provide a very simple but high performance way to set corner for UIImageView. 
 
 Simple code:
 UIImageView *headerImageView = [[UIImageView alloc] initWithFrame:CGRectMake(10, 10, 40, 40)];
