@@ -5,6 +5,10 @@ WLCCornerRadius
 ### CocoaPods:
 
 ### Simple code:
+    #import "UIImageView+WLCCornerRadius.h"
+    
+    ......
+    
     UIImageView *headerImageView = [[UIImageView alloc] initWithFrame:CGRectMake(10, 10, 40, 40)];  
     [headerImageView wlc_setCornerRadius:20.f cornerType:UIRectCornerAllCorners];  
     [headerImageView wlc_setBorderWidth:2.f borderColor:[UIColor redColor]];  
